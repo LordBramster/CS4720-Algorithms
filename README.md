@@ -1,2 +1,2 @@
-# Algorithms_CS4720
-BigO Computations and Homework Exercises
+# Algorithms CS4720
+**CS4720 Homework Exercises**
