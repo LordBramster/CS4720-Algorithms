@@ -1,2 +1,2 @@
-# Algorithms CS4720
+# Algorithms
 **CS4720 Homework Exercises**
